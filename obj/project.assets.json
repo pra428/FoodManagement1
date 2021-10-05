@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\97798\\.nuget\\packages\\": {}
+    "C:\\Users\\Amrit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97798\\source\\repos\\FoodManagement1\\FoodManagement1\\FoodManagement1.csproj",
+      "projectUniqueName": "C:\\Users\\Amrit\\Desktop\\FoodManagement\\FoodManagement1\\FoodManagement1.csproj",
       "projectName": "FoodManagement1",
-      "projectPath": "C:\\Users\\97798\\source\\repos\\FoodManagement1\\FoodManagement1\\FoodManagement1.csproj",
-      "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97798\\source\\repos\\FoodManagement1\\FoodManagement1\\obj\\",
+      "projectPath": "C:\\Users\\Amrit\\Desktop\\FoodManagement\\FoodManagement1\\FoodManagement1.csproj",
+      "packagesPath": "C:\\Users\\Amrit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amrit\\Desktop\\FoodManagement\\FoodManagement1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
